@@ -280,7 +280,7 @@ export default function QuizClient() {
 
             <div className="text-center pt-2">
               <p className="text-sm text-gray-500">
-                Hello {userSession.name}! Your answers will be automatically sent to us by email.
+                Hello {userSession.name}! Your results will be automatically sent to you by email.
               </p>
             </div>
           </CardContent>
